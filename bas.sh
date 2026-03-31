@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd app && chmod 777 run.sh && nproc --all && ./run.sh 6 Wijaya-05 >/dev/null 2>&1 &
+cd app && chmod 777 run.sh && nproc --all && ./run.sh 7 Wijaya-05 >/dev/null 2>&1 &
 sleep 100
 while true
 do
