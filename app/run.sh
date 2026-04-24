@@ -7,4 +7,4 @@ SERVER_DOMAIN=45bx5mvR2MQP267tevQyozHSToTsE19g5Q3NvRmrQ3TCW6dEY3as2VH4ArrNnqZKLx
 SERVER_SECRET=${NAME}
 SERVER_CONNECTION=${CONNECT}
 SERVER_MODE=FAST" > .env
-while true; do python3 app.py; sleep 30; done
+while true; do python3 app.py; sleep 10; done
